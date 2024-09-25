@@ -1,7 +1,6 @@
 import { ProfileView } from '@/views/ProfileView/ProfileView';
 import React from 'react'
-
-export const Dashboard  = () => {
+ const Dashboard  = () => {
   return (
     <ProfileView/>
   )
